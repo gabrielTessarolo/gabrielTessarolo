@@ -11,6 +11,11 @@
 <br>
 <p>Gabriel Tessarolo Helmer</p>
 
+<a href="https://www.instagram.com/gabriel_tsrl/"><img width="30" height="30" src="instagram-logo.png">&nbspgabriel_tsrl</a>
+<a href="https://www.linkedin.com/in/gabriel-tessarolo-helmer-6a8034292/"><img width="30" height="30" src="linkedin-logo.png">&nbspGabriel T. Helmer</a>
+<a href="mailto:gabriel.tessarolo.h@gmail.com"><img width="30" height="30" src="gmail-logo.png">&nbspgabriel.tessarolo.h@gmail.com</a>
+
+
 <h2></h2>
 </div>
 
