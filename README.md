@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello, welcome to my profile!
 
-<!--
-**gabrielTessarolo/gabrielTessarolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<link rel='stylesheet' href='style.css'>
 
-Here are some ideas to get you started:
+<h2 class='title'>Gabriel Tessarolo Helmer</h2>
+<h5>About to start Software Engineering in UFG (Universidade Federal de Goiás). Goiânia, Goiás, Brazil.</h5>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experienced to FrontEnd Programming with HTML, CSS and JS. Currently Learning React Framework.
+
+Languages: Portuguese, English, Spanish | 
+
+JavaScript Algorithms and Data Structures: https://www.freecodecamp.org/certification/binichim/javascript-algorithms-and-data-structures
+Advanced Excel: https://certificadocursosonline.com/certificates/64be4b166948339a1d8688ce77213b9f/
