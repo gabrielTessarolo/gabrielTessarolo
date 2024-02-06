@@ -3,6 +3,7 @@
   <a href="https://www.instagram.com/gabriel_tsrl/"><img width="30" height="30" src="instagram-logo.png"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/gabriel-tessarolo-helmer-6a8034292/"><img width="30" height="30" src="linkedin-logo.png"></a>&nbsp;&nbsp;
   <a href="mailto:gabriel.tessarolo.h@gmail.com"><img width="32" height="24" src="gmail-logo.png"></a>&nbsp;&nbsp;
+  <a href="https://www.codewars.com/users/gabrielTessarolo"><img width="32" height="24" src="codewars-logo.png"></a>&nbsp;&nbsp;
 </div>
 
 <div align="center">
