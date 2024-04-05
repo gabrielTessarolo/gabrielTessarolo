@@ -22,9 +22,9 @@
 
 <h2></h2>
 
-<h5>About to start Software Engineering in UFG (Universidade Federal de Goiás). Goiânia, Goiás, Brazil 🧭.<br>Experienced to FrontEnd Programming with HTML, CSS and JS. Currently Learning React Framework.<br><br> </h5>
-</div>
+<h5>Graduating in Software Engineering in UFG (Universidade Federal de Goiás). Goiânia, Goiás, Brazil 🧭.<br>Experienced to FrontEnd Programming with HTML, CSS and JS. Currently Learning React Framework.<br><br> </h5>
 
+</div>
 <h5>Main languages:<h5>
 <h6>JavaScript, Python. 💻 <br>
 Portuguese, English, Spanish. 📖</h6>
@@ -34,3 +34,5 @@ Portuguese, English, Spanish. 📖</h6>
 <li>Advanced Excel by Certificado Cursos Online: https://certificadocursosonline.com/certificates/64be4b166948339a1d8688ce77213b9f/</li><br>
 <li>Python 1, 2 & 3 Modules and HTML 5 by Curso em Vídeo</li></h6>
 </ul>
+
+
