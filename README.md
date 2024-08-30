@@ -8,7 +8,9 @@
 
 <div align="center">
 <h1>Gabriel Tessarolo Helmer</h1>
-
+<div align="center">
+    <a href="https://github.com/gthUFG"><img src="https://github.com/gthUFG.png" width="80"><h6>Check my academical GitHub and some of my student projects!<br><a href="https://github.com/gthUFG">github.com/gthUFG</a></h6></a>
+</div>
 
 <br>
   <img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp&nbsp
@@ -22,9 +24,13 @@
 
 <h2></h2>
 
-<h5>Graduating in Software Engineering in UFG (Universidade Federal de Goiás). Goiânia, Goiás, Brazil 🧭.<br>Experienced to FrontEnd Programming with HTML, CSS and JS. Currently Learning React Framework.<br><br> </h5>
 
+<h5>Currently studying the 2º semester of Software Engineering in UFG (Universidade Federal de Goiás). Goiânia, Goiás, Brazil 🧭.<br>Experienced to FrontEnd Programming with HTML, CSS and JS. Currently Learning React Framework.<br><br> </h5>
+  
+  
 </div>
+
+
 <h5>Main languages:<h5>
 <h6>JavaScript, Python. 💻 <br>
 Portuguese, English, Spanish. 📖</h6>
