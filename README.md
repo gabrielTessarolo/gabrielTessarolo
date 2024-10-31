@@ -7,8 +7,7 @@
 </div>
 
 <div align="center">
-[![Gabriel Tessarolo Helmer](https://github-readme-stats.vercel.app/api?username=gabrielTessarolo)](https://github.com/anuraghazra/github-readme-stats)
-<!-- <h1>Gabriel Tessarolo Helmer</h1> -->
+  <h1>Gabriel Tessarolo Helmer</h1>
 
 <div align="center">
     <a href="https://github.com/gthUFG"><img src="https://github.com/gthUFG.png" width="80"><h6>Check my academical GitHub and some of my student projects!<br><a href="https://github.com/gthUFG">github.com/gthUFG</a></h6></a>
@@ -32,6 +31,12 @@
   
 </div>
 
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielTessarolo&theme=blue-green&show_icons=true&hide_border=true&count_private=true" alt="gabrielTessarolo's GitHub Stats" width="278"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielTessarolo&theme=blue-green&show_icons=true&hide_border=true&layout=compact" alt="gabrielTessarolo's GitHub Stats" width="250"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielTessarolo&theme=blue-green&hide_border=true" alt="gabrielTessarolo's GitHub Stats" width="295"/>
+</div>
 
 <h5>Main languages:<h5>
 <h6>JavaScript, Python. 💻 <br>
