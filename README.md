@@ -7,8 +7,8 @@
 </div>
 
 <div align="center">
-(https://github-readme-stats.vercel.app/api?username=gabrielTessarolo)](https://github.com/anuraghazra/github-readme-stats)
-<h1>Gabriel Tessarolo Helmer</h1>
+[![Gabriel Tessarolo Helmer](https://github-readme-stats.vercel.app/api?username=gabrielTessarolo)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <h1>Gabriel Tessarolo Helmer</h1> -->
 
 <div align="center">
     <a href="https://github.com/gthUFG"><img src="https://github.com/gthUFG.png" width="80"><h6>Check my academical GitHub and some of my student projects!<br><a href="https://github.com/gthUFG">github.com/gthUFG</a></h6></a>
