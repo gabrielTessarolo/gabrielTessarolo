@@ -33,9 +33,9 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielTessarolo&theme=blue-green&show_icons=true&hide_border=true&count_private=true" alt="gabrielTessarolo's GitHub Stats" width="278"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielTessarolo&theme=blue-green&show_icons=true&hide_border=true&layout=compact" alt="gabrielTessarolo's GitHub Stats" width="250"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielTessarolo&theme=blue-green&hide_border=true" alt="gabrielTessarolo's GitHub Stats" width="295"/>
+ <!--<img src="https://github-readme-stats.vercel.app/api?username=gabrielTessarolo&theme=blue-green&show_icons=true&hide_border=true&count_private=true" alt="gabrielTessarolo's GitHub Stats" width="278"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielTessarolo&theme=blue-green&show_icons=true&hide_border=true&layout=compact" alt="gabrielTessarolo's GitHub Stats" width="250"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielTessarolo&theme=blue-green&hide_border=true" alt="gabrielTessarolo's GitHub Stats" width="295"/>-->
 </div>
 
 <h5>Main languages:<h5>
