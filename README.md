@@ -1,4 +1,5 @@
 ### Hello, welcome to my profile!
+
 <div align="right">
   <a href="https://www.instagram.com/gabriel_tsrl/"><img width="30" height="30" src="instagram-logo.png"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/gabriel-tessarolo-helmer-6a8034292/"><img width="30" height="30" src="linkedin-logo.png"></a>&nbsp;&nbsp;
@@ -14,19 +15,21 @@
 </div>
 
 <br>
-  <img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp&nbsp
-  <img width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg">&nbsp&nbsp
+<img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp&nbsp
+<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">&nbsp&nbsp
+<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">&nbsp&nbsp
+<img width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg">&nbsp&nbsp
+<img width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">&nbsp&nbsp
+<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg">&nbsp&nbsp
+<!--   <img width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">&nbsp&nbsp -->
 <!--   <img width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">&nbsp&nbsp -->
 <!--   <img width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">&nbsp&nbsp -->
-  <img width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">&nbsp&nbsp
-  <img width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">&nbsp&nbsp
-  <img width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">&nbsp&nbsp
-<br>
+<!--   <img width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">&nbsp&nbsp -->
 
 <h2></h2>
 
-
-<h5>Currently studying the 2º semester of Software Engineering in UFG (Universidade Federal de Goiás). Goiânia, Goiás, Brazil 🧭.<br>Experienced to FrontEnd Programming with HTML, CSS and JS. Currently Learning React Framework.<br><br> </h5>
+[![gabrielTessarolo stats](https://github-readme-stats.vercel.app/api?username=gabrielTessarolo)](https://github.com/gabrielTessarolo/github-readme-stats)
+<h5>Currently studying the 3º semester of Software Engineering in UFG (Universidade Federal de Goiás). Goiânia, Goiás, Brazil 🧭.<br>Experienced to FrontEnd Programming with JS, TS, Angular, and web automation with Python.<br><br> </h5>
   
   
 </div>
