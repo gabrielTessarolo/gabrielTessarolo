@@ -29,7 +29,7 @@
 <h2></h2>
 
 [![gabrielTessarolo stats](https://github-readme-stats.vercel.app/api?username=gabrielTessarolo)](https://github.com/gabrielTessarolo/github-readme-stats)
-<h5>Currently studying the 3º semester of Software Engineering in UFG (Universidade Federal de Goiás). Goiânia, Goiás, Brazil 🧭.<br>Experienced to FrontEnd Programming with JS, TS, Angular, and web automation with Python.<br><br> </h5>
+<h5>Currently studying the 4º semester of Software Engineering in UFG (Universidade Federal de Goiás). Goiânia, Goiás, Brazil 🧭.<br>Experienced to FrontEnd Programming with JS, TS, Angular, React and Tailwind, and web automation with Python.<br><br> </h5>
   
   
 </div>
