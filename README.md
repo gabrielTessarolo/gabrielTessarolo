@@ -18,12 +18,12 @@
 <img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp&nbsp
 <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">&nbsp&nbsp
 <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">&nbsp&nbsp
+<img width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">&nbsp&nbsp
 <img width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg">&nbsp&nbsp
 <img width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">&nbsp&nbsp
 <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg">&nbsp&nbsp
 <!--   <img width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">&nbsp&nbsp -->
 <!--   <img width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">&nbsp&nbsp -->
-<!--   <img width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">&nbsp&nbsp -->
 <!--   <img width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">&nbsp&nbsp -->
 
 <h2></h2>
